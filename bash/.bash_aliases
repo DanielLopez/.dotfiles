@@ -42,3 +42,7 @@ alias gd="git diff"
 alias ghb="gh browse"
 
 
+#===============================================
+# HomeBew 
+#===============================================
+alias bu="brew update && brew upgrade && brew cleanup"
