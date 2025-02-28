@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Add nvim submodule
+git submodule add https://github.com/DanielLopez/kickstart.nvim.git nvim/.config/nvim
+
+# Add tmux submodules
+git submodule add https://github.com/tmux/tmux.git tmux/.tmux/plugins/tmux
+git submodule add https://github.com/tmux-plugins/tmux-resurrect.git tmux/.tmux/plugins/tmux-resurrect
+git submodule add https://github.com/tmux-plugins/tmux-sensible.git tmux/.tmux/plugins/tmux-sensible
+git submodule add https://github.com/tmux-plugins/tpm.git tmux/.tmux/plugins/tpm
+git submodule add https://github.com/christoomey/vim-tmux-navigator.git tmux/.tmux/plugins/vim-tmux-navigator
+
