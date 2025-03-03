@@ -35,6 +35,7 @@ alias gcm="git commit -m"
 alias gl="git log"
 alias gll="git log --oneline"
 alias gd="git diff"
+alias grh="git reset --hard"
 
 #===============================================
 # GitHub
