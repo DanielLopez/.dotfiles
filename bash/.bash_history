@@ -1,60 +1,3 @@
-bat
-dir .config
-exit
-exit
-exit
-ll
-dir
-brew
-..
-..
-cd ..
-cd ..
-cd ...
-cd ..
-cd ..
-cd ..
-ll
-dir
-cd usr
-dri
-dir
-cd ..
-cd usr
-ll
-dir
-quit
-exit
-ll
-dir
-~
-ls -la
-ssh
-tldr
-ssh
-ssh -x
-ssh -l
-ssh localhost
-logout
-ls -la
-eza
-ssh Daniel@localhost
-procs
-proc
-pc
-procs
-lsof
-ps
-ps
-ps
-ssh
-tldr
-who -u
-who
-exit
-ls
-ls -la
-cd ..
 cd ~
 ll
 dir
@@ -498,3 +441,72 @@ ll
 nvim .tmux.confi
 y
 tmux kill-server
+lls
+clear
+ll
+exit
+exit
+exit
+ll
+clear
+ll
+clea
+clear
+exit
+c
+exit
+ipconfig
+ipconfig
+exit
+exit
+exit
+exit
+ipconfig
+exit
+exit
+sudo service ssh start
+exit
+traceroute 192.168.1.0
+sudo traceroute 192.168.1.0
+traceroute
+sudo apt install raceroute
+sudo apt install traceroute
+traceroute
+traceroute 8.8.8.8
+sudo apt-get install traceroute
+traceroute
+tldr traceroute
+traceroute www.google.com
+sudo traceroute www.google.com
+ls
+ll
+traceroute www.google.com
+traceroute 8.8.8.8
+exit
+c
+y
+z
+z
+y
+ssh-keygen
+z .ssh
+ll
+bat id_rsa.pub
+sudo nano /etc/ssh/sshd_config
+ping dethklokrulz.duckdns.org
+traceroute dethklokrulz.duckdns.org
+exit
+exit
+exit
+sudo service ssh start
+sudo service ssh start
+c
+nvim ~/.zsh_aliases
+y
+c
+r
+sshstatus
+ls
+clear
+sudo nano /etc/ssh/sshd_config
+sudo nano /etc/sh/sshd_config

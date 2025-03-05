@@ -12,6 +12,15 @@ Pacific   : $(TZ="America/Los_Angeles" date +%T) (UTC-8)\n\
 "'
 
 #===============================================
+# SSH 
+#===============================================
+alias ssh-start="sudo service ssh start"
+alias ssh-status="sudo service ssh status"
+alias ssh-stop="sudo service ssh stop"
+alias ssh-restart="sudo service ssh restart"
+alias ssh-config="sudo nano /etc/ssh/sshd_config"
+
+#===============================================
 # File Managment
 #===============================================
 alias ll="eza -la"
@@ -41,7 +50,6 @@ alias grh="git reset --hard"
 # GitHub
 #===============================================
 alias ghb="gh browse"
-
 
 #===============================================
 # HomeBew 
