@@ -31,3 +31,5 @@
 [ras] [DOC - Kafka Lag Alert Reasons] glow "/Users/dlopez/Library/CloudStorage/OneDrive-RedSailTechnologies,LLC/Obsidian/Work/ATLAS/Kafka/Kafka Lag Alert Reasons.md"
 [ras] [DOC - NCPDP Specs] yazi "/Users/dlopez/Documents/Specs/NCPDP"
 [ras] [Obsidian - Edit KeyMap Plugin(vimrc) ] nvim /Users/dlopez/Library/CloudStorage/OneDrive-RedSailTechnologies,LLC/Obsidian/Work/.obsidian.vimrc
+[ras] [Nats-Agents Chat - snowflakeOpsAssistant (Development)] nad chat snowflakeOpsAssistant ""
+[ras] [Nats-Agents Chat - snowflakeOpsAssistant (Production)] nap chat snowflakeOpsAssistant ""
